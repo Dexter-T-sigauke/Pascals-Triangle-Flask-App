@@ -1,3 +1,7 @@
+CODE BY TAFADZWA DEXTER SIGAUKE
+
+
+========QUESTION=======
 Pascal's triangle is the triangular array of numbers that begins with 1 on the top and with 1's running down the two sides of a triangle. Each new number lies between two numbers and below them, and its value is the sum of the two numbers above it.
 
 Create a Flask API endpoint that takes in an integer as a parameter in a POST request. Use that integer to generate Pascal's triangle in a separate function call. The function should be located in a separate module inside a separate Python package and must be imported from the package, not directly from the module. The function should return a Python dictionary to the controller, which in turn should return the dictionary as an HTTP response to the client.
